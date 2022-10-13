@@ -1,0 +1,1 @@
+// Register all fonts used in the app and make them available as final field

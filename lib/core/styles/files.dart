@@ -1,0 +1,1 @@
+// Register all other files (pdf, excel, etc, if needed) used in the app and make them available as final field
